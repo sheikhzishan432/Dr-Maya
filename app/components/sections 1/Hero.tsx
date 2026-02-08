@@ -59,7 +59,7 @@ export default function Hero() {
           </p>
 
           <a
-            href="/Bookcon"
+            href="/Bookconn"
             className="inline-block mt-8 border border-[#2e3a34] px-8 py-4 
             text-sm tracking-widest text-[#2e3a34] 
             hover:bg-[#2e3a34] hover:text-white transition"
